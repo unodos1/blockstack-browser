@@ -11,7 +11,6 @@ tests/account/*
 tests/fixtures/*
 tests/profiles/*
 tests/store/*
-tests/utils/a*
 tests/utils/e*
 tests/utils/n*
 
